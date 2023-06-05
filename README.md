@@ -2,7 +2,7 @@
 This is the official resources for ECCV 2022 paper "Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image"
 
 # How to run
-All code all in the zip file.
+The code is in the zip file.
 Our code is based on the code of [SPD](https://github.com/mentian/object-deformnet) 
 Therefore, you can following the instruction in [SPD](https://github.com/mentian/object-deformnet)  to run our code.
 You may need some time to read my code, I apologize i have no time to organize and standardize the code since i am queit busy recently.
