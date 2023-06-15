@@ -9,6 +9,9 @@ You may need some time to read my code, I apologize i have no time to organize a
 
 
 # Citation 
+If you find this project useful in your research, please consider citing it using the following BibTeX entry:
+
+```bibtex
 @inproceedings{fan2022object,
   title={Object level depth reconstruction for category level 6d object pose estimation from monocular RGB image},
   author={Fan, Zhaoxin and Song, Zhenbo and Xu, Jian and Wang, Zhicheng and Wu, Kejian and Liu, Hongyan and He, Jun},
